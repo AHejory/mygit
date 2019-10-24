@@ -1,0 +1,18 @@
+body  {
+    direction: rtl;
+    font-family: tahoma,arial;
+}
+h1 {
+   color: red;
+}
+h2 {
+    color: blue;
+}
+h3 {
+    direction: ltr;
+    font-family: Verdana;
+    font-size: 16px;
+}
+img {
+  
+}
